@@ -1,0 +1,26 @@
+/*
+body
+*/
+body {
+    background-image: url(../img/background.webp);
+}
+/*
+HI
+*/
+.hi {
+    display: flex;
+    width: 500px;
+    justify-content: center;
+}
+
+div {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 255, 42);
+    font-size: 50px;
+}
+
+a{
+    margin-top: 135px;
+    color: rgb(2, 132, 255);
+    font-size: 50px;
+}

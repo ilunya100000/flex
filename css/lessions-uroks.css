@@ -1,0 +1,25 @@
+body{
+    background-image: url(../img/backgrond-lessions.jpg);
+}
+
+div {
+    display: flex;
+    color:blue;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 250px;
+    margin-left: 250px;
+}
+
+.zadanie3{
+    margin-top: 20px;
+}
+
+.rezulatat {
+    font-size: 25pt;
+}
+
+a {
+    color: gold;
+    font-size: 18pt;
+}
